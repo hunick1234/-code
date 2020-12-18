@@ -3,8 +3,6 @@
 #include<stdlib.h>
 #include<time.h>
 
-//int passchang(char passin);
-//char en[26] = { 'a','b','c','d','e','f','g','h','i','j','k','l','n','m','o','p','q','r','s','t','u','v','w','x','y','z' };
 int guess(int , int , int );
 
 int main(void) 
