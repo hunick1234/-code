@@ -4,4 +4,10 @@
 A. Favorite Sequence 幹 我把功能做反了
 
 ### Guess Math 
-()?: 三元運算小練習
+a>b?a:b 三元運算小練習 
+if(a>b) do a;
+else do b;
+
+
+                      
+
