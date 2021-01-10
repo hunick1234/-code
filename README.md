@@ -8,6 +8,9 @@ a>b?a:b 三元運算小練習
 if(a>b) do a;
 else do b;
 
+##Golang
 
+### lengthOfLastWord
+strings.TrimSpace(s) // 將字串頭尾空白鍵去除 " sa s "=>"sa s"
                       
 
