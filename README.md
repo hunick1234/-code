@@ -25,5 +25,8 @@ strings.TrimSpace(s) // 將字串頭尾空白鍵去除 " sa s "=>"sa s"
 
 ### leetCode 389. Find the Difference
 
+### aLittelQuixion.go
+關於變數s在for迴圈的初始化問題
+
                       
 
